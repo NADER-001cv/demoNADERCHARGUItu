@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/demoNADERCHARGUItu/static/css/main.a0b15200.chunk.css",
+    "main.js": "/demoNADERCHARGUItu/static/js/main.715cd034.chunk.js",
+    "main.js.map": "/demoNADERCHARGUItu/static/js/main.715cd034.chunk.js.map",
+    "runtime-main.js": "/demoNADERCHARGUItu/static/js/runtime-main.ffec0732.js",
+    "runtime-main.js.map": "/demoNADERCHARGUItu/static/js/runtime-main.ffec0732.js.map",
+    "static/css/2.10bc9b17.chunk.css": "/demoNADERCHARGUItu/static/css/2.10bc9b17.chunk.css",
+    "static/js/2.331d9f12.chunk.js": "/demoNADERCHARGUItu/static/js/2.331d9f12.chunk.js",
+    "static/js/2.331d9f12.chunk.js.map": "/demoNADERCHARGUItu/static/js/2.331d9f12.chunk.js.map",
+    "static/js/3.ada11b80.chunk.js": "/demoNADERCHARGUItu/static/js/3.ada11b80.chunk.js",
+    "static/js/3.ada11b80.chunk.js.map": "/demoNADERCHARGUItu/static/js/3.ada11b80.chunk.js.map",
+    "index.html": "/demoNADERCHARGUItu/index.html",
+    "static/css/2.10bc9b17.chunk.css.map": "/demoNADERCHARGUItu/static/css/2.10bc9b17.chunk.css.map",
+    "static/css/main.a0b15200.chunk.css.map": "/demoNADERCHARGUItu/static/css/main.a0b15200.chunk.css.map",
+    "static/js/2.331d9f12.chunk.js.LICENSE.txt": "/demoNADERCHARGUItu/static/js/2.331d9f12.chunk.js.LICENSE.txt",
+    "static/media/b.837ceece.png": "/demoNADERCHARGUItu/static/media/b.837ceece.png",
+    "static/media/contact.fa4ace1a.png": "/demoNADERCHARGUItu/static/media/contact.fa4ace1a.png",
+    "static/media/socialmedia.bb1506dc.png": "/demoNADERCHARGUItu/static/media/socialmedia.bb1506dc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffec0732.js",
+    "static/css/2.10bc9b17.chunk.css",
+    "static/js/2.331d9f12.chunk.js",
+    "static/css/main.a0b15200.chunk.css",
+    "static/js/main.715cd034.chunk.js"
+  ]
+}
